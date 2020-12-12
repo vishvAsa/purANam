@@ -1,0 +1,21 @@
+# This is your sidebar TOC. The sidebar code loops through sections here and provides the appropriate formatting.
+
+title: भागाः
+contents:
+  - title: शास्त्रम्
+    contents:
+      - url: recdir://shAstram/
+  - title: टीकाः
+    contents:
+      - url: recdir://TIkA/
+  - title: स्वोपज्ञम्
+    contents:
+      - url: recdir://sviiyam/
+  - title: Notes Home
+    url: /../notes/
+  - title: Vishvas's home page
+    url: /../
+  - title: Blog
+    url: /assets/blog/
+#  - title: <i class="fas fa-hand-holding-heart"></i>Donate Via Vishvas
+#    url: https://vvasuki.github.io/interests/dharma-via-vishvas/

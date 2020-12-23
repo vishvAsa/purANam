@@ -1,0 +1,4 @@
++++
+title = "+अधिपुराणम्"
+unicode_script = "devanagari"
++++

@@ -1,4 +1,4 @@
 +++
-title = "+अधिरामायणम्"
+title = "+अधिभारतम्"
 unicode_script = "devanagari"
 +++

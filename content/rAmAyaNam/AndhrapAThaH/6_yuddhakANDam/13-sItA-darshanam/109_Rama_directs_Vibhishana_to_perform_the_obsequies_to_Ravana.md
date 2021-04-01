@@ -3,7 +3,9 @@ title: १०९ विभीषणेन रावणान्त्यकर�
 title_english: 109 Rama directs Vibhishana to perform the obsequies to Ravana
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-109-Rama_directs_Vibhishana_to_perform_the_obsequies_to_Ravana_0.mp3"></div>
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-107-Rama_and_Ravana_perform_a_fierce_battle_0.mp3"></div>
+
 
 ततः प्रवृत्तं सुक्रूरं रामरावणयोस्तदा।  
 सुमहद्द्वैरथं युद्धं सर्वलोकभयावहम् ॥ 6.109.1 ॥   

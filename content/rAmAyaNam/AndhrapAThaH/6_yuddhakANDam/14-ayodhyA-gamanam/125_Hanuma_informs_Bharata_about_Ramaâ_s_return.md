@@ -3,9 +3,11 @@ title: १२५ भरत-हनुमत्संवादः
 title_english: 125 Hanuma informs Bharata about Ramaâ s return
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-125-Hanuma_informs_Bharata_about_Ramas_return.mp3"></div>
 
-  
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-122-Rama_along_with_Lakshmana_and_Seetha_ascend_the_aerial_car_0.mp3"></div>
+
+
 उपस्थितं तु तं दृष्ट्वा पुष्पकं पुष्पभूषितम्।  
 अविदूरस्थितो रामं प्रत्युवाच विभीषणः ॥ 6.125.1 ॥   
 स तु बद्धाञ्जलिः प्रह्वो विनीतो राक्षसेश्वरः।  

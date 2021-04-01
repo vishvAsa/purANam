@@ -3,9 +3,11 @@ title: ११७ लङ्कां प्रति देवैः आगमन
 title_english: 117 Gods reach Lanka and approach Rama
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-117-Gods_reach_Lanka_and_approach_Rama_0.mp3"></div>
 
-  
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-114-Vibhishana_brings_Seetha_to_Rama_0.mp3"></div>
+
+
 स उवाच महाप्राज्ञमभिगम्य प्लवङ्गमः।  
 रामं वचनमर्थज्ञो वरं सर्वधनुष्मताम् ॥ 6.117.1 ॥   
 यन्निमित्तोऽयमारम्भः कर्मणां च फलोदयः।  

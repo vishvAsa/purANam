@@ -3,9 +3,10 @@ title: ११५ रामेण सीतातिरस्कारः
 title_english: 115 Rama disowns her and asks her to seek shelter elsewhere
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-115-Rama_disowns_her_and_asks_her_to_seek_shelter_elsewhere._0.mp3"></div>
 
-  
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-112-Vibhishana_s_installation__0.mp3"></div>
+
+
 ते रावणवधं दृष्ट्वा देवगन्धर्वदानवाः।  
 जग्मुः स्वैस्वैर्विमानैस्ते कथयन्तः शुभाः कथाः ॥ 6.115.1 ॥   
 रावणस्य वधं घोरं राघवस्य पराक्रमम्।  

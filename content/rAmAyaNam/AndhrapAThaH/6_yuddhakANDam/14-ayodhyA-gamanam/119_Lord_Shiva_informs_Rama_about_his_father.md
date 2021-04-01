@@ -3,9 +3,9 @@ title: ११९ रामेण स्वपितृवार्ताश्�
 title_english: 119 Lord Shiva informs Rama about his father
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-119-Lord_Shiva_informs_Rama_about_his_father_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-116-Seetha_s_taunting_reply_to_Rama_0.mp3"></div>
 
-  
+
 एवमुक्ता तु वैदेही परुषं रोमहर्षणम्।  
 राघवेण सरोषेण भृशं प्रव्यथिताऽभवत् ॥ 6.119.1 ॥   
 सा तदश्रुतपूर्वं हि जने महति मैथिली।  

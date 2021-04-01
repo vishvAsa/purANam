@@ -3,7 +3,9 @@ title: ०९० इन्द्रजिदश्वमरणम्
 title_english: 090 Indrajit s horse was killed
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-090-Indrajit_s_horse_was_killed_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-089-Vibhishana_destroys_many_demons_0.mp3"></div>
+
+
 
 युध्यमानौ तु तौ दृष्ट्वा प्रसक्तौ नराक्षसौ।  
 प्रभिन्नाविव मातङ्गौ परस्परवधैषिणौ ॥ 6.90.1 ॥   

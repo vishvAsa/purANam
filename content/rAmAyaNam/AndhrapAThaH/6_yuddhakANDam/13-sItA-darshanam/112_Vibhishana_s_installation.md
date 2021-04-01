@@ -3,9 +3,10 @@ title: ११२ विभीषणस्य पट्टाभिषेकः
 title_english: 112 Vibhishana s installation
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-112-Vibhishana_s_installation__0.mp3"></div>
 
-  
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-109-Rama_directs_Vibhishana_to_perform_the_obsequies_to_Ravana_0.mp3"></div>
+
+
 भ्रातरं निहतं दृष्ट्वा शयानं रामनिर्जितम्।  
 शोकवेगपरीतात्मा विललाप विभीषणः ॥ 6.112.1 ॥   
 वीर विक्रान्त विख्यात विनीत नयकोविद।  

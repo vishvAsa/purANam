@@ -3,7 +3,9 @@ title: १०२ रामास्त्राहतो रावणः
 title_english: 102 Ravana gets severely hurt
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-102-Ravana_gets_severely_hurt_0.mp3"></div>
+
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-101-Hanuma_brings_mountain_with_life_giving_herbs_0.mp3"></div>
 
 शक्त्या विनिहतं दृष्ट्वा रावणेन बलीयसा।  
 लक्ष्मणं समरे शूरं रुधिरौघपरिप्लुतम् ॥ 6.102.1 ॥   

@@ -3,9 +3,10 @@ title: १२३ पुष्पके सीता-रामसंवादः
 title_english: 123 Rama shows to Seetha the places
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-123-Rama_shows_to_Seetha_the_places_0.mp3"></div>
 
-  
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-120-Indra_s_boon_to_Rama_0.mp3"></div>
+
+
 प्रतिप्रयाते काकुत्स्थे महेन्द्रः पाकशासनः।  
 अब्रवीत् परमप्रीतो राघवं प्राञ्जलिं स्थितम् ॥ 6.123.1 ॥   
 अमोघं दर्शनं राम तवास्माकं परन्तप।  

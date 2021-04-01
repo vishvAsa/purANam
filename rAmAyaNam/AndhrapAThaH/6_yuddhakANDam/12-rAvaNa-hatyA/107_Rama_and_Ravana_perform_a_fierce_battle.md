@@ -3,7 +3,8 @@ title: १०७ राम-रावणयोर्भीषणयुद्ध�
 title_english: 107 Rama and Ravana perform a fierce battle
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-107-Rama_and_Ravana_perform_a_fierce_battle_0.mp3"></div>
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-105-Sage_Agastya_s_advice_0.mp3"></div>
 
 ततो युद्धपरिश्रन्तं समरे चिन्तया स्थितम्।  
 रावणं चाग्रतो दृष्ट्वा युद्धाय समुपस्थितम् ॥ 6.107.1 ॥   

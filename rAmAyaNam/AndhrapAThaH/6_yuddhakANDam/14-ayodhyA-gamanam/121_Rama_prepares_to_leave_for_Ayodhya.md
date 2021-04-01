@@ -3,9 +3,10 @@ title: १२१ रामेण अयोध्यानिर्वर्त�
 title_english: 121 Rama prepares to leave for Ayodhya
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-121-Rama_prepares_to_leave_for_Ayodhya_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-118-The_fire-god_appears_in_person_from_the_burning_pyre_0.mp3"></div>
 
-  
+
+
 एतच्छ्रुत्वा शुभं वाक्यं पितामहसमीरितम्।  
 अङ्केनादाय वैदेहीमुत्पपात विभावसुः ॥ 6.121.1 ॥   
 स विधूय चितां तां तु वैदेहीं हव्यवाहनः।  

@@ -3,7 +3,8 @@ title: १०५ राम-अगस्त्यसंवादः
 title_english: 105 Sage Agastya s advice
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-105-Sage_Agastya_s_advice_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-103-Ravana_s_charioteer_carries_away_Ravana_in_the_chariot_0.mp3"></div>
+
 
 स तेन तु तथा क्रोधात् काकुत्स्थेनार्दितो रणे।  
 रावणः समरश्लाघी महाक्रोधमुपागमत् ॥ 6.105.1 ॥   

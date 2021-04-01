@@ -3,9 +3,10 @@ title: १२७ नन्दिग्रामे भरतप्रतीक�
 title_english: 127 Bharata commands for the reception of Rama in the City of Ayodhya
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-127-Bharata_commands_for_the_reception_of_Rama_in_the_City of _0.mp3"></div>
 
-  
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-124-Rama_lands_at_Sage_Bharadwaja_hermitage_0.mp3"></div>
+
+
 पूर्णे चतुर्दशे वर्षे पञ्चम्यां लक्ष्मणाग्रजः।  
 भरद्वाजश्रमं प्राप्य ववन्दे नियतो मुनिम् ॥ 6.127.1 ॥   
 शृणोषि कच्चिद्भगवन् सुभिक्षानामयं पुरे।  

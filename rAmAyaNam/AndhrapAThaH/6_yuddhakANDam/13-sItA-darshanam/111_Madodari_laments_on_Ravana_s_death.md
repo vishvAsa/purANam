@@ -3,7 +3,10 @@ title: १११ मन्दोदरिशोकः
 title_english: 111 Madodari laments on Ravana s death
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-111-Mandodari_laments_on_Ravana_s_death_0.mp3"></div>
+
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-108-Rama_kills_Ravana_0.mp3"></div>
+
 
 अथ संस्मारयामास राघवं मातलिस्तदा।  
 अजानन्निव किं वीर त्वमेनमनुवर्तसे ॥ 6.111.1 ॥   

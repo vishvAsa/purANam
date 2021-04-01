@@ -3,9 +3,9 @@ title: ११४ विभीषणेन रामान्तिके सी�
 title_english: 114 Vibhishana brings Seetha to Rama
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-114-Vibhishana_brings_Seetha_to_Rama_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-111-Mandodari_laments_on_Ravana_s_death_0.mp3"></div>
 
-  
+
 तासां विलपमानानां तथा राक्षसयोषिताम्।  
 ज्येष्ठा पत्नी प्रिया दीना भर्तारं समुदैक्षत ॥ 6.114.1 ॥   
 दशग्रीवं हतं दृष्ट्वा रामेणाचिन्त्यकर्मणा।  

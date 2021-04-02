@@ -1,5 +1,5 @@
 ---
-title: ०८८ लक्ष्मण-इन्द्रजिद्युद्धः
+title: ०८८ लक्ष्मण-इन्द्रजिद्युद्धम्
 title_english: 088 A fierce battle starts between Lakshmana and Indrajit
 
 ---

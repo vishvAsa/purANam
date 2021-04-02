@@ -1,6 +1,7 @@
 ---
-title: १०७ राम-रावणयोर्भीषणयुद्धः
-title_english: 107 Rama and Ravana perform a fierce battle
+
+title: १०५ राम-अगस्त्यसंवादः
+title_english: 105 Sage Agastya s advice
 
 ---
 

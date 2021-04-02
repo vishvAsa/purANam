@@ -1,6 +1,7 @@
 ---
-title: ०९६ सुग्रीवेण विरूपाक्षवधः
-title_english: 096 Sugreeva kills Virupaksha
+
+title: ०९५ कपिभिः सह रावणयुद्धः
+title_english: 095 Ravana fights fiercely with monkeys
 
 ---
 

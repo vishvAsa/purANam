@@ -1,6 +1,7 @@
 ---
-title: १०८ रामेण रावणवधः
-title_english: 108 Rama kills Ravana
+
+title: १०६ राम-मातलिसंवादः
+title_english: 106 Rama spoke to Matali
 
 ---
 

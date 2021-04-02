@@ -1,7 +1,7 @@
 ---
-title: १२४ भरद्वाजाश्रमागमनम्
-title_english: 124 Rama lands at Sage Bharadwaja hermitage
 
+title: १२१ रामेण अयोध्यानिर्वर्तनसिद्धता
+title_english: 121 Rama prepares to leave for Ayodhya
 ---
 
 

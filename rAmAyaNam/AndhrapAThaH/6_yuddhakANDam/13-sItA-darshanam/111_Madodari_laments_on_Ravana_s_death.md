@@ -1,7 +1,7 @@
 ---
-title: १११ मन्दोदरिशोकः
-title_english: 111 Madodari laments on Ravana s death
 
+title: १०८ रामेण रावणवधः
+title_english: 108 Rama kills Ravana
 ---
 
 

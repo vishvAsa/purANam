@@ -1,6 +1,7 @@
 ---
-title: ०९५ कपिभिः सह रावणयुद्धः
-title_english: 095 Ravana fights fiercely with monkeys
+
+title: ०९४ राक्षसीभिः प्रलापः
+title_english: 094 The female demons lament over the death of their kith and kin
 
 ---
 

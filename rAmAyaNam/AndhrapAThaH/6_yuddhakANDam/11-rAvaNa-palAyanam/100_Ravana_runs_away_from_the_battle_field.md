@@ -1,6 +1,7 @@
 ---
-title: १०० रावणस्य युद्धपलायनम्
-title_english: 100 Ravana runs away from the battle field
+
+title: ०९९ राम-रावणयुद्धः
+title_english: 099 The battle between Rama and Ravana
 
 ---
 

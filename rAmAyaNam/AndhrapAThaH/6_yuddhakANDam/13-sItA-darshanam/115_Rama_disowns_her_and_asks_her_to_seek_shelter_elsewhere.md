@@ -1,6 +1,7 @@
 ---
-title: ११५ रामेण सीतातिरस्कारः
-title_english: 115 Rama disowns her and asks her to seek shelter elsewhere
+
+title: ११२ विभीषणस्य पट्टाभिषेकः
+title_english: 112 Vibhishana s installation
 
 ---
 

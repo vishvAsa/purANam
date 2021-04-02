@@ -1,6 +1,6 @@
 ---
 
-title: ०९९ राम-रावणयुद्धः
+title: ०९९ राम-रावणयुद्धम्
 title_english: 099 The battle between Rama and Ravana
 
 ---

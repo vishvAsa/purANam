@@ -1,5 +1,5 @@
 ---
-english_title: 001 nArada briefs vAlmIki about rAma rAmAyaNa in a nutshell
+title_english: 001 nArada briefs vAlmIki about rAma rAmAyaNa in a nutshell
 title: ००१ सङ्क्षेपरामायणम्
 unicode_script: devanagari
 

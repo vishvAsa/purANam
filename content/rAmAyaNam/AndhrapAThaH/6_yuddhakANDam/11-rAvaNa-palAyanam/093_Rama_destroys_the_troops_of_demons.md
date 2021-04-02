@@ -3,7 +3,8 @@ title: ०९३ रामेण रक्षःसैन्यविनाश�
 title_english: 093 Rama destroys the troops of demons
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-093-Rama_destroys_the_troops_of_demons_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-092-Ravana_feels_distressed_over_his_son_s_death_0.mp3"></div>
+
 
 ततः पौलस्त्यसचिवाः श्रुत्वा चेन्द्रजितं हतम्।  
 आचचक्षुरभिज्ञाय दशग्रीवाय सव्यथाः ॥ 6.93.1 ॥   

@@ -3,7 +3,8 @@ title: ०९२ रावणेन पुत्रमरणशोकः
 title_english: 092 Ravana feels distressed over his son s death
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-092-Ravana_feels_distressed_over_his_son_s_death_0.mp3"></div>
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-091-Lakshmana_and_others_were_treated_by_Sushena_0.mp3"></div>
 
 रुधिरक्लिन्नगात्रस्तु लक्ष्मणः शुभलक्षणः।  
 बभूव हृष्टस्तं हत्वा शक्रजेतारमाहवे ॥ 6.92.1 ॥   

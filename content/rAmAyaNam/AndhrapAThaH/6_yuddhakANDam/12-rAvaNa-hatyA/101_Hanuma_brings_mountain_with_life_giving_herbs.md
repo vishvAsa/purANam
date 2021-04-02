@@ -3,7 +3,9 @@ title: १०१ हनुमता सञ्जीविनीपर्वत�
 title_english: 101 Hanuma brings mountain with life giving herbs
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-101-Hanuma_brings_mountain_with_life_giving_herbs_0.mp3"></div>
+
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-100-Ravana_runs_away_from_the_battle-field_0.mp3"></div>
 
 तस्मिन् प्रतिहतेऽस्त्रे तु रावणो राक्षसाधिपः।  
 क्रोधं च द्विगुणं चक्रे क्रोधाच्चास्त्रमनन्तरम् ॥ 6.101.1 ॥   

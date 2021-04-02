@@ -3,7 +3,8 @@ title: १०३ रावणेन युद्धभूमिनिर्व�
 title_english: 103 Ravana s charioteer carries away Ravana in the chariot
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-103-Ravana_s_charioteer_carries_away_Ravana_in_the_chariot_0.mp3"></div>
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-102-Ravana_gets_severely_hurt_0.mp3"></div>
 
 सन्दधे परवीरघ्नो धनुरादाय वीर्यवान्।  
 रावणाय शरान् घोरान् विससर्ज चमूमुखे ॥ 6.103.1 ॥   

@@ -3,7 +3,9 @@ title: ०९९ राम-रावणयुद्धः
 title_english: 099 The battle between Rama and Ravana
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-099-The_battle_between_Rama_and_Ravana_0.mp3"></div>
+
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-098-Angada_kills_Mahaparsva_0.mp3"></div>
 
 सुग्रीवेण समीक्ष्याथ क्रोधात् संरक्तलोचनः।  
 अङ्गदस्य चमूं भीमां क्षोभयामास सायकैः ॥ 6.99.1 ॥   

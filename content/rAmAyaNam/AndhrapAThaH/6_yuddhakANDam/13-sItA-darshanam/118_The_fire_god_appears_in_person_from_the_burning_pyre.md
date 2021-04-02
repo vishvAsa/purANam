@@ -3,9 +3,9 @@ title: ११८ अग्निदेवेन लङ्कागमनम्
 title_english: 118 The fire god appears in person from the burning pyre
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-118-The_fire-god_appears_in_person_from_the_burning_pyre_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-115-Rama_disowns_her_and_asks_her_to_seek_shelter_elsewhere._0.mp3"></div>
 
-  
+
 तां तु पार्श्वस्थितां प्रह्वां रामः सम्प्रेक्ष्य मैथिलीम्।  
 हृदयान्तर्गतक्रोधो व्याहर्तुमुपचक्रमे ॥ 6.118.1 ॥   
 एषाऽसि निर्जिता भद्रे शत्रुं जित्वा मया रणे।  

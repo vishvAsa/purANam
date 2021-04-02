@@ -3,9 +3,9 @@ title: ११६ सीतारामसंवादः
 title_english: 116 Seetha s taunting reply to Rama
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-116-Seetha_s_taunting_reply_to_Rama_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-113-Hanuma_informs_Seetha_about_Rama_s_victory__0.mp3"></div>
 
-  
+
 इति प्रतिसमादिष्टो हनुमान् मारुतात्मजः।  
 प्रविवेश पुरीं लङ्कां पूज्यमानो निशाचरैः ॥ 6.116.1 ॥   
 ददर्श मृजया हीनां सातङ्कामिव रोहिणीम्।  

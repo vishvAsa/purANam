@@ -3,7 +3,9 @@ title: ०९४ राक्षसीभिः प्रलापः
 title_english: 094 The female demons lament over the death of their kith and kin
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-094-The_female-demons_lament_over_the_death_of_their_kith_and kin_0.mp3"></div>
+
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-093-Rama_destroys_the_troops_of_demons_0.mp3"></div>
 
 स प्रविश्य सभां राजा दीनः परमदुःखितः।  
 निषसादासने सिंहः क्रुद्ध इव श्वसन् ॥ 6.94.1 ॥   

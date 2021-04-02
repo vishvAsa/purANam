@@ -3,9 +3,11 @@ title: १२४ भरद्वाजाश्रमागमनम्
 title_english: 124 Rama lands at Sage Bharadwaja hermitage
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-124-Rama_lands_at_Sage_Bharadwaja_hermitage_0.mp3"></div>
 
-  
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-121-Rama_prepares_to_leave_for_Ayodhya_0.mp3"></div>
+
+
 तां रात्रिमुषितं रामं सुखोत्थितमरिन्दमम्।  
 अब्रवीत् प्राञ्जलिर्वाक्यं जयं पृष्ट्वा विभीषणः ॥ 6.124.1 ॥   
 स्नानानि चाङ्गरागाणि वस्त्राण्याभरणानि च।  

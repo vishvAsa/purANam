@@ -3,9 +3,10 @@ title: १२८ श्रीरामपट्टाभिषेकः
 title_english: 128 Sri Rama pattabhishekam
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-128-Sri_Rama_pattabhishekam_0.mp3"></div>
 
-  
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-125-Hanuma_informs_Bharata_about_Ramas_return.mp3"></div>
+
+
 अयोध्यां तु समालोक्य चिन्तयामास राघवः।  
 चिन्तयित्वा हनूमन्तमुवाच प्लवगोत्तमम् ॥ 6.128.1 ॥   
 जानीहि कच्चित् कुशली जनो नृपतिमन्दिरे ॥ 6.128.2 ॥   
@@ -94,3 +95,13 @@ title_english: 128 Sri Rama pattabhishekam
 सर्वाभरणसम्पन्नाः सम्पन्नाः कुलजातिभिः ॥ 6.128.45 ॥   
 निशम्य रामागमनं नृपात्मजः कपिप्रवीरस्य तदद्भुतोपमम्।  
 प्रहर्षितो रामदिदृक्षयाऽभवत् पुनश्च हर्षादिदमब्रवीद्वचः ॥ 6.128.46 ॥   
+
+
+
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-126-Hanuma_recounts_to_Bharata_about_Rama_in_the_forest_0.mp3"></div>
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-127-Bharata_commands_for_the_reception_of_Rama_in_the_City of _0.mp3"></div>
+
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-128-Sri_Rama_pattabhishekam_0.mp3"></div>

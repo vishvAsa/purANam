@@ -3,7 +3,8 @@ title: १०४ रावणस्य पुनरागमनम्
 title_english: 104 Ravana re approached the battle field
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-104-Ravana_re-approached_the_battle-field_0.mp3"></div>
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-102-Ravana_gets_severely_hurt_0.mp3"></div>
+
 
 तस्य क्रुद्धस्य वदनं दृष्ट्वा रामस्य धीमतः।  
 सर्वभूतानि वित्रेसुः प्राकम्पत च मेदिनी ॥ 6.104.1 ॥   

@@ -3,7 +3,9 @@ title: ०९६ सुग्रीवेण विरूपाक्षवध�
 title_english: 096 Sugreeva kills Virupaksha
 
 ---
-<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-096-Sugreeva_kills_Virupaksha_0.mp3"></div>
+
+
+<div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-095-Ravana_fights_fiercely_with_monkeys_0.mp3"></div>
 
 आर्तानां राक्षसीनां तु लङ्कायां वै कुले कुले।  
 रावणः करुणं शब्दं शुश्राव परिदेवितम् ॥ 6.96.1 ॥   

@@ -1,6 +1,7 @@
 ---
-title: १०९ विभीषणेन रावणान्त्यकर्मकरणम्
-title_english: 109 Rama directs Vibhishana to perform the obsequies to Ravana
+
+title: १०७ राम-रावणयोर्भीषणयुद्धः
+title_english: 107 Rama and Ravana perform a fierce battle
 
 ---
 

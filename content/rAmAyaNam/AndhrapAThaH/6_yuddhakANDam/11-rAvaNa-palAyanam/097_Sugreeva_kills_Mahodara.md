@@ -1,6 +1,7 @@
 ---
-title: ०९७ सुग्रीवेण महोदरवधः
-title_english: 097 Sugreeva kills Mahodara
+
+title: ०९६ सुग्रीवेण विरूपाक्षवधः
+title_english: 096 Sugreeva kills Virupaksha
 
 ---
 

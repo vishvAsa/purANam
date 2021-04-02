@@ -1,7 +1,7 @@
 ---
-title: ०९९ राम-रावणयुद्धः
-title_english: 099 The battle between Rama and Ravana
 
+title: ०९८ अङ्गदेन महापार्श्ववधः
+title_english: 098 Angada kills Mahaparsva
 ---
 
 

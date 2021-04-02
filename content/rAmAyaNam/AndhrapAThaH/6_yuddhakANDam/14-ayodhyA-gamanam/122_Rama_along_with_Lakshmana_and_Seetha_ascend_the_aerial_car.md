@@ -1,6 +1,7 @@
 ---
-title: १२२ पुष्पकविमानेन रामादीनां प्रयाणम्
-title_english: 122 Rama along with Lakshmana and Seetha ascend the aerial car
+
+title: ११९ रामेण स्वपितृवार्ताश्रवणम्
+title_english: 119 Lord Shiva informs Rama about his father
 
 ---
 

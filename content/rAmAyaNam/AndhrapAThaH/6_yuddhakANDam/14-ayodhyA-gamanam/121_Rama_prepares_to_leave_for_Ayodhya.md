@@ -1,6 +1,7 @@
 ---
-title: १२१ रामेण अयोध्यानिर्वर्तनसिद्धता
-title_english: 121 Rama prepares to leave for Ayodhya
+
+title: ११८ अग्निदेवेन लङ्कागमनम्
+title_english: 118 The fire god appears in person from the burning pyre
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-118-The_fire-god_appears_in_person_from_the_burning_pyre_0.mp3"></div>

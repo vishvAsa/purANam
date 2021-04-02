@@ -1,6 +1,7 @@
 ---
-title: १०१ हनुमता सञ्जीविनीपर्वतानयनम्
-title_english: 101 Hanuma brings mountain with life giving herbs
+
+title: १०० रावणस्य युद्धपलायनम्
+title_english: 100 Ravana runs away from the battle field
 
 ---
 

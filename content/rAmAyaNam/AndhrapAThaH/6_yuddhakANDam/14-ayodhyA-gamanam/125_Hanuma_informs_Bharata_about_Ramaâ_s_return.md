@@ -1,6 +1,7 @@
 ---
-title: १२५ भरत-हनुमत्संवादः
-title_english: 125 Hanuma informs Bharata about Ramaâ s return
+
+title: १२२ पुष्पकविमानेन रामादीनां प्रयाणम्
+title_english: 122 Rama along with Lakshmana and Seetha ascend the aerial car
 
 ---
 

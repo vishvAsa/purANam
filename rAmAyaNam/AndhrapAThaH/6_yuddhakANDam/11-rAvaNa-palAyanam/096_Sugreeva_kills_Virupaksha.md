@@ -1,11 +1,8 @@
 ---
-
-title: ०९५ कपिभिः सह रावणयुद्धम्
+title: ०९६ कपिभिः सह रावणयुद्धम्
 title_english: 095 Ravana fights fiercely with monkeys
 
 ---
-
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-095-Ravana_fights_fiercely_with_monkeys_0.mp3"></div>
 
 आर्तानां राक्षसीनां तु लङ्कायां वै कुले कुले।  

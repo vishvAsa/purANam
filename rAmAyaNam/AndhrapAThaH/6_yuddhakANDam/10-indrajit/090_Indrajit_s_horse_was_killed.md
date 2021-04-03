@@ -1,6 +1,5 @@
 ---
-
-title: ०८९ विभीषणेन रक्षोहननम्
+title: ०९० विभीषणेन रक्षोहननम्
 title_english: 089 Vibhishana destroys many demons
 
 ---

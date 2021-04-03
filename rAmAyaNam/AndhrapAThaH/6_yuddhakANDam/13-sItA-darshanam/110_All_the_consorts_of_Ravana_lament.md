@@ -1,7 +1,5 @@
 ---
-
-
-title: १०७ राम-रावणयोर्भीषणयुद्धम्
+title: ११० राम-रावणयोर्भीषणयुद्धम्
 title_english: 107 Rama and Ravana perform a fierce battle
 
 ---

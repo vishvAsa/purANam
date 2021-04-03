@@ -1,10 +1,8 @@
 ---
-
-title: ११७ लङ्कां प्रति देवैः आगमनम्
+title: १२० लङ्कां प्रति देवैः आगमनम्
 title_english: 117 Gods reach Lanka and approach Rama
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-117-Gods_reach_Lanka_and_approach_Rama_0.mp3"></div>
 
 

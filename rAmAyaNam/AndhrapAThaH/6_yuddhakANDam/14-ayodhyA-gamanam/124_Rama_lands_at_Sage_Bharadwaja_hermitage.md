@@ -1,10 +1,8 @@
 ---
-
-title: १२१ रामेण अयोध्यानिर्वर्तनसिद्धता
+title: १२४ रामेण अयोध्यानिर्वर्तनसिद्धता
 title_english: 121 Rama prepares to leave for Ayodhya
+
 ---
-
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-121-Rama_prepares_to_leave_for_Ayodhya_0.mp3"></div>
 
 

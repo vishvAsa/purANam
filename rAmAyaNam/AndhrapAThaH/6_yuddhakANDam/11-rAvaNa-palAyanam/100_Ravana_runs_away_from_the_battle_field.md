@@ -1,11 +1,8 @@
 ---
-
-title: ०९९ राम-रावणयुद्धम्
+title: १०० राम-रावणयुद्धम्
 title_english: 099 The battle between Rama and Ravana
 
 ---
-
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-099-The_battle_between_Rama_and_Ravana_0.mp3"></div>
 
 तस्मिंश्च निहते वीरे विरूपाक्षे महाबले।  

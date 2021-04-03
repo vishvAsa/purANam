@@ -1,11 +1,8 @@
 ---
-
-title: १२२ पुष्पकविमानेन रामादीनां प्रयाणम्
+title: १२५ पुष्पकविमानेन रामादीनां प्रयाणम्
 title_english: 122 Rama along with Lakshmana and Seetha ascend the aerial car
 
 ---
-
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-122-Rama_along_with_Lakshmana_and_Seetha_ascend_the_aerial_car_0.mp3"></div>
 
 

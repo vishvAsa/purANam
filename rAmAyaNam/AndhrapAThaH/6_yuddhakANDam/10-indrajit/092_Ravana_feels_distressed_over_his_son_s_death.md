@@ -1,10 +1,8 @@
 ---
-
-title: ०९१ सुषेणेन लक्ष्मणादिसेवा
+title: ०९२ सुषेणेन लक्ष्मणादिसेवा
 title_english: 091 Lakshmana and others were treated by Sushena
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-091-Lakshmana_and_others_were_treated_by_Sushena_0.mp3"></div>
 
 रुधिरक्लिन्नगात्रस्तु लक्ष्मणः शुभलक्षणः।  

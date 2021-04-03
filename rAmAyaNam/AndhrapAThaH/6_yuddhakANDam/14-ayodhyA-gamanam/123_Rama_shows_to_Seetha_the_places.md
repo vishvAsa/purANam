@@ -1,9 +1,8 @@
 ---
-
-title: १२० इन्द्रेण वरदानम्
+title: १२३ इन्द्रेण वरदानम्
 title_english: 120 Indra s boon to Rama
----
 
+---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-120-Indra_s_boon_to_Rama_0.mp3"></div>
 
 

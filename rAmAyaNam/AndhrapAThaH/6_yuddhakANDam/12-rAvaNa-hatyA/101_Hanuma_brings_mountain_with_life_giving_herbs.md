@@ -1,11 +1,8 @@
 ---
-
-title: १०० रावणस्य युद्धपलायनम्
+title: १०१ रावणस्य युद्धपलायनम्
 title_english: 100 Ravana runs away from the battle field
 
 ---
-
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-100-Ravana_runs_away_from_the_battle-field_0.mp3"></div>
 
 तस्मिन् प्रतिहतेऽस्त्रे तु रावणो राक्षसाधिपः।  

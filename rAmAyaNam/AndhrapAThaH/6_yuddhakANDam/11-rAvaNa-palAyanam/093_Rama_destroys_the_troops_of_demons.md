@@ -1,9 +1,8 @@
 ---
-
-title: ०९२ रावणेन पुत्रमरणशोकः
+title: ०९३ रावणेन पुत्रमरणशोकः
 title_english: 092 Ravana feels distressed over his son s death
----
 
+---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-092-Ravana_feels_distressed_over_his_son_s_death_0.mp3"></div>
 
 

@@ -1,9 +1,8 @@
 ---
-title: ०८८ लक्ष्मण-इन्द्रजिद्युद्धम्
+title: ०८९ लक्ष्मण-इन्द्रजिद्युद्धम्
 title_english: 088 A fierce battle starts between Lakshmana and Indrajit
 
 ---
-
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-088-A_fierce_battle_starts_between_Lakshmana_and_Indrajit_0.mp3"></div>
 
 

@@ -1,10 +1,8 @@
 ---
-
-
-title: ०९० इन्द्रजिदश्वमरणम्
+title: ०९१ इन्द्रजिदश्वमरणम्
 title_english: 090 Indrajit s horse was killed
----
 
+---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-090-Indrajit_s_horse_was_killed_0.mp3"></div>
 
 स हताश्वो महातेजा भूमौ तिष्ठन्निशाचरः।  

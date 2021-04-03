@@ -1,6 +1,6 @@
 ---
 title: ०९० विभीषणेन रक्षोहननम्
-title_english: 089 Vibhishana destroys many demons
+title_english: 090 Vibhishana destroys many demons
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-089-Vibhishana_destroys_many_demons_0.mp3"></div>

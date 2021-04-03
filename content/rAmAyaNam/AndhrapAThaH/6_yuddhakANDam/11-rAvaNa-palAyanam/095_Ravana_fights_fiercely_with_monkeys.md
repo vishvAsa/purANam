@@ -1,6 +1,6 @@
 ---
 title: ०९५ राक्षसीभिः प्रलापः
-title_english: 094 The female demons lament over the death of their kith and kin
+title_english: 095 The female demons lament over the death of their kith and kin
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-094-The_female-demons_lament_over_the_death_of_their_kith_and kin_0.mp3"></div>

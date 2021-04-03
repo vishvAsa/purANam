@@ -1,6 +1,6 @@
 ---
 title: ०९९ अङ्गदेन महापार्श्ववधः
-title_english: 098 Angada kills Mahaparsva
+title_english: 099 Angada kills Mahaparsva
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-098-Angada_kills_Mahaparsva_0.mp3"></div>

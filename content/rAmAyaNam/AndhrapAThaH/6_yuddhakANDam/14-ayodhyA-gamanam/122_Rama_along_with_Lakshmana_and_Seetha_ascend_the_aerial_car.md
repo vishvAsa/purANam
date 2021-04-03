@@ -1,6 +1,6 @@
 ---
 title: १२२ रामेण स्वपितृवार्ताश्रवणम्
-title_english: 119 Lord Shiva informs Rama about his father
+title_english: 122 Lord Shiva informs Rama about his father
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-119-Lord_Shiva_informs_Rama_about_his_father_0.mp3"></div>

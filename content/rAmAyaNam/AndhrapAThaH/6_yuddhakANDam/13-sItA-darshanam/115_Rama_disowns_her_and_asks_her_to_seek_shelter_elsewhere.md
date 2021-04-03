@@ -1,6 +1,6 @@
 ---
 title: ११५ विभीषणस्य पट्टाभिषेकः
-title_english: 112 Vibhishana s installation
+title_english: 115 Vibhishana s installation
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-112-Vibhishana_s_installation__0.mp3"></div>

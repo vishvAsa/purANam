@@ -1,6 +1,6 @@
 ---
 title: ११३ रावणसम्बधिभिः शोकः
-title_english: 110 All the consorts of Ravana lament
+title_english: 113 All the consorts of Ravana lament
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-110-All_the_consorts_of_Ravana_lament_0.mp3"></div>

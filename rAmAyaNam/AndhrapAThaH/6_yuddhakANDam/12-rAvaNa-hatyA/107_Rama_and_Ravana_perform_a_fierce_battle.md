@@ -1,6 +1,6 @@
 ---
 title: १०७ राम-अगस्त्यसंवादः
-title_english: 105 Sage Agastya s advice
+title_english: 107 Sage Agastya s advice
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-105-Sage_Agastya_s_advice_0.mp3"></div>

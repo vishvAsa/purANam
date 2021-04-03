@@ -1,6 +1,6 @@
 ---
 title: ०९८ सुग्रीवेण महोदरवधः
-title_english: 097 Sugreeva kills Mahodara
+title_english: 098 Sugreeva kills Mahodara
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-097-Sugreeva_kills_Mahodara_0.mp3"></div>

@@ -1,6 +1,6 @@
 ---
 title: ०९४ रामेण रक्षःसैन्यविनाशः
-title_english: 093 Rama destroys the troops of demons
+title_english: 094 Rama destroys the troops of demons
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-093-Rama_destroys_the_troops_of_demons_0.mp3"></div>

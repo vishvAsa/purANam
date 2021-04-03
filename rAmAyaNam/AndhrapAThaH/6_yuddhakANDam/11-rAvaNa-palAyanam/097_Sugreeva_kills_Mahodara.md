@@ -1,6 +1,6 @@
 ---
 title: ०९७ सुग्रीवेण विरूपाक्षवधः
-title_english: 096 Sugreeva kills Virupaksha
+title_english: 097 Sugreeva kills Virupaksha
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-096-Sugreeva_kills_Virupaksha_0.mp3"></div>

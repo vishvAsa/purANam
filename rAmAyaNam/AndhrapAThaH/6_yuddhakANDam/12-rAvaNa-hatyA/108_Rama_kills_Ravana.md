@@ -1,6 +1,6 @@
 ---
 title: १०८ राम-मातलिसंवादः
-title_english: 106 Rama spoke to Matali
+title_english: 108 Rama spoke to Matali
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-106-Rama_spoke_to_Matali_0.mp3"></div>

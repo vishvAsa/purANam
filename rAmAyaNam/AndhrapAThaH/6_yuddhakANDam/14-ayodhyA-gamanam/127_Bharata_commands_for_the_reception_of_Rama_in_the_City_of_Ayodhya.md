@@ -1,6 +1,6 @@
 ---
 title: १२७ भरद्वाजाश्रमागमनम्
-title_english: 124 Rama lands at Sage Bharadwaja hermitage
+title_english: 127 Rama lands at Sage Bharadwaja hermitage
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-124-Rama_lands_at_Sage_Bharadwaja_hermitage_0.mp3"></div>

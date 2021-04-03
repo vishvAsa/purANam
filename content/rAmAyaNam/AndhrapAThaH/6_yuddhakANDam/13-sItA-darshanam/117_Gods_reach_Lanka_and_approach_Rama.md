@@ -1,6 +1,7 @@
 ---
-title: ११७ लङ्कां प्रति देवैः आगमनम्
-title_english: 117 Gods reach Lanka and approach Rama
+
+title: ११४ विभीषणेन रामान्तिके सीताप्रेषणम्
+title_english: 114 Vibhishana brings Seetha to Rama
 
 ---
 

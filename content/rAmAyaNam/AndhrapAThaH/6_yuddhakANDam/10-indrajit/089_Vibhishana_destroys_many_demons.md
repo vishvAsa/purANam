@@ -1,6 +1,6 @@
 ---
-title: ०८९ विभीषणेन रक्षोहननम्
-title_english: 089 Vibhishana destroys many demons
+title: ०८८ लक्ष्मण-इन्द्रजिद्युद्धम्
+title_english: 088 A fierce battle starts between Lakshmana and Indrajit
 
 ---
 

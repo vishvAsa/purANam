@@ -1,6 +1,7 @@
 ---
-title: ०९८ अङ्गदेन महापार्श्ववधः
-title_english: 098 Angada kills Mahaparsva
+
+title: ०९७ सुग्रीवेण महोदरवधः
+title_english: 097 Sugreeva kills Mahodara
 
 ---
 

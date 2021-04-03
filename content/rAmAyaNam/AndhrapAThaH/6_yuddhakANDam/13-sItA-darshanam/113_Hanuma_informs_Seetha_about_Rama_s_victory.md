@@ -1,11 +1,13 @@
 ---
-title: ११३ हनुमता सीतायाः रामविजयवार्ताकथनम्
-title_english: 113 Hanuma informs Seetha about Rama s victory
+
+
+title: ११० रावणसम्बधिभिः शोकः
+title_english: 110 All the consorts of Ravana lament
 
 ---
 <div class="audioEmbed"  caption="श्रीराम-हरिसीताराममूर्ति-घनपाठिभ्यां वचनम्" src="https://archive.org/download/Ramayana-recitation-Sriram-harisItArAmamUrti-Ghanapaati-v2/Kanda_6/Kanda_6_YK-110-All_the_consorts_of_Ravana_lament_0.mp3"></div>
 
-  
+
 रावणं निहतं श्रुत्वा राघवेण महात्मना।  
 अन्तःपुराद्विनिष्पेतू राक्षस्यः शोककर्शिताः ॥ 6.113.1 ॥   
 वार्यमाणाः सुबहुशो वेष्टन्त्यः क्षितिपांसुषु।  

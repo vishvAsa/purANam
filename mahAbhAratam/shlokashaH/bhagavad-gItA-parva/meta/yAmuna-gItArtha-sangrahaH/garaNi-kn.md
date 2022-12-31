@@ -1,5 +1,5 @@
 +++
-title = "ಗೀತಾರ್ಥ  ಸಂಗ್ರಹ "
+title = "ಗರಣಿ-ರಾಧಾಕೃಷ್ಣ "
 unicode_script = "kannada"
 +++
 

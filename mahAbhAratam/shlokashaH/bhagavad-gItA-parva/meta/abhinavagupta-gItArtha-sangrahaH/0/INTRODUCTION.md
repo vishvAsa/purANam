@@ -98,7 +98,7 @@ The Ātman, the Self, is beginningless, endless and changeless eventhough the co
 - 2. The word Samvid is difficult to translate and so also is the word vimarśa we will be speaking of next. Hence the suggested renderings are but tentative.
 - 3. I.e. Prakasa-Vimarsamaya (the act of self-illuminating and the act of self-awareness).
 
-Considering its pervasiveness limited by the body-sense-mind-equipment, it is called Ātman, the Self, the Soul; and considering its unlimited pervasiveness, it is called Universal Soul,4 known by the terms Brahman, Paramātman, Parā Samvid, Vāsudeva, Paraśiva etc. The ignorant sind difference between Ātman and the Paramātman while the men of vision view them identical.5 
+Considering its pervasiveness limited by the body-sense-mind-equipment, it is called Ātman, the Self, the Soul; and considering its unlimited pervasiveness, it is called Universal Soul,4 known by the terms Brahman, Paramātman, Parā Samvid, Vāsudeva, Paraśiva etc. The ignorant find difference between Ātman and the Paramātman while the men of vision view them identical.5 
 
 - Cf. the cases of the Ghaṭākāśa 'space limited by the pot', Maṭhākāśa 'space limited by the building' and Mahākāśa -. 'the unlimited space'. 
 - 5. Ch. IV, 34-35; XIII, 1-2. 
@@ -120,22 +120,21 @@ The senses and the sense-objects are also included in this All inclusive Samvid.
 
 Because the Supreme and the Jīva (finite Ātman) are thus identical, the latter too is always engaged in the acts of Sr̥ṣṭi and Saṁhāra.( 3. Pt. II, p. 228. \*) For, his nature is such. That is to say, inspite of his tiny nature due to his Pañca-kañcukas - (Five covers), he is still Cit, which is nothing but the Supreme. (4. Ch. XIII, 1-2. )
 
-Further, it is quite evident to everyone that the world of experience (including different gods like Indra) is manifested and is consequently of the nature of Prakāśa,which is nothing but the Supreme. Hence no Pramāṇa (proof) is needed to prove the existence of the Self-illuminating Supreme. (5. Ch. IX, 24-27; pt. II, pp. 270-01. ) But His real nature one can know through the preceptor's teachings (Gurūpadeśa) and the scriptures (Sruti, Agama etc.). 
+Further, it is quite evident to everyone that the world of experience (including different gods like Indra) is manifested and is consequently of the nature of Prakāśa, which is nothing but the Supreme. Hence no Pramāṇa (proof) is needed to prove the existence of the Self-illuminating Supreme. (5. Ch. IX, 24-27; pt. II, pp. 270-01. ) But His real nature one can know through the preceptor's teachings (Gurūpadeśa) and the scriptures (Śruti, Āgama etc.). 
 
 ### Dvaitabhāvanā and Advaitabhāvanā
-Concentration on the lower Tattvas (categories) alone amounts to Dvaitabhāvanā (duality view) that causes one to get caught in the whirl of birth and death. Similarly the meditation on the higher Tattvas amounts to Advaitabhāvanā (non-duality view) leading an aspirant to Mokṣa (emancipation).(1. Ch. III, 14-15. ) In other words the most important means to attain emancipation is to view all things including the senses and sense objects as manifestations of the Self; (2. Ch. II, 60; XHI, 14; pt. II, p. 46. ) to meditate on the true nature of the Self, i.e. the acts of emenation and absorption are going constantly in the Self. (3. I.e. by way of one's acts of receiving and rejecting. See ch. XI, 18; pt. II, p. 228.) 
+Concentration on the lower Tattvas (categories) alone amounts to Dvaitabhāvanā (duality view) that causes one to get caught in the whirl of birth and death. Similarly the meditation on the higher Tattvas amounts to Advaitabhāvanā (non-duality view) leading an aspirant to Mokṣa (emancipation).(1. Ch. III, 14-15. ) In other words the most important means to attain emancipation is to view all things including the senses and sense objects as manifestations of the Self; (2. Ch. II, 60; XHI, 14; pt. II, p. 46. ) to meditate on the true nature of the Self, i.e. the acts of emanation and absorption are going constantly in the Self. (3. I.e. by way of one's acts of receiving and rejecting. See ch. XI, 18; pt. II, p. 228.) 
 
 For, emancipation is nothing but the Pratyabhijñā (recognition): ‘All is nothing but the Supreme'; and 'I am the Supreme'. 
 
 - 4. The stage in which one realises 'All is Supreme (nanu sarvaṁ khalu Vāsudevaḥ)' is known as Kramamudra in the Tantras. See ch. VIII, 12-13; IX, 5; pt. II, 154-55, 197. Further, all the Guṇas (Stands), i.e. the Sattva, the Rajas and the Tamas are emanations of Ahamvimarśa. Hence, a knowledge of Self with any restriction is wrong and therefore is bondage.
-
 
 This recognition an aspirant gets through the Grace of the Supreme and this Grace may or may not depend on the Karma-samatā (5. Ch. VII, 12-13; pt. II, pp. 155-56. the equableness of the good and bad effects of one's own actions) attained by the aspirant.
 
 ### Upāya-s
 This method of achieving emancipation through the said realisation is the method followed by the Sāttvatas (1. Ch. XI, 18. the highly evolved person) and it is known as Abhedopāya (unity-view method). 
 
-Of course there are also other methods found prescribed in different scriptures of different schools. They may be either Bhedābhedopāyas (2. Ch. X, 19-42. duality-cum unity-view methods) or Bhedopāyas (duality-view methods).3 All these are intended for those who can not comprehend the All-inclusive Self as detailed in the BG. (See. in.ch. X and XI)
+Of course there are also other methods found prescribed in different scriptures of different schools. They may be either Bhedābhedopāyas (2. Ch. X, 19-42. duality-cum unity-view methods) or Bhedopāyas (duality-view methods).3 All these are intended for those who can not comprehend the All-inclusive Self as detailed in the BG. (See. in.ch. X and XI).
 
 - 3. Ch. III, 39-48; IV, 29-38. These three Upayas may be the same as what are known in the Tantras respectively as the śambhava, śakta and Aṇava Upāyas. See pt. II, pp. 95, 214, 228.
 
@@ -162,7 +161,7 @@ Hence Yajña may denote all methods such as the Vedic sacrifices, the Aṣtāṅ
 > शेयं ज्ञान-समाधिना ।  
 > विश्राम उदयो व्याप्ति-  
 > व्यक्तिरा वासुदेवतः ।।  
-> The Sātvatamr̥ta: Ed. Vrajavallabha Dvivedi: Varanasi, 1982: p. 402: ch. XIX, verses 153-55.
+> The Sātvatāmr̥ta: Ed. Vrajavallabha Dvivedi: Varanasi, 1982: p. 402: ch. XIX, verses 153-55.
 
 In fact even the act of "sense-object-contact" is Yajña, if it is performed with a sense of dedication to the Lord, with no sense of ego (1. See e.g. ch. XVIII, 61-66. ) and with no motive for the result viz. pleasure. 2 
 
@@ -226,8 +225,8 @@ II, iii, 21. Also see GS, ch. III, 47-48, etc..
 er non 
 Introduction 
 XXXY 
-the two. For, Sankara's philosophy is out and out based on the tradition of the venerable Sruti. And according to him, all other authorities, however great they might be, are to be rejected straight away, if they are found contradicting the Śruti. On the other hand Ag.'s philosophy has its foundation on the "śaiva traditions of the Āgamas. According to the gena 
-last mentioned authorities, the Vedic tradition is no doubt a good one; but it is inferior to the Vaiṣnava tradition' which is itself inferior to the śaiva tradi \*tion. Being a staunch Vedist Advaitin, Sankara has "his own reason to adhere to the Illusion theory (Viva rttavāda) and to treat the world as Illusory (Jagan Mithyā). On the other hand, being a śaiva Absolutist of the Agama tradition, Ag. has his own justification to follow the Manifestation-theory (Abhāsavāda) and to view the world as manifestation of the Supreme. He cannot agree with the view that world is an Illusion. The Brahman, he says, manifests as the sec mingly inert as well as the Absolute Lord (īśvara). The thing to be overcome is the ignorance which prevents us from realising the Brahman in the world as well as beyond it.& Bearing all these factors in mind let us try to understand only a few points bric fly in the following sections. 
+the two. For, Sankara's philosophy is out and out based on the tradition of the venerable Śruti. And according to him, all other authorities, however great they might be, are to be rejected straight away, if they are found contradicting the Śruti. On the other hand Ag.'s philosophy has its foundation on the "śaiva traditions of the Āgamas. According to the gena 
+last mentioned authorities, the Vedic tradition is no doubt a good one; but it is inferior to the Vaiṣnava tradition' which is itself inferior to the śaiva tradi \*tion. Being a staunch Vedist Advaitin, Sankara has "his own reason to adhere to the Illusion theory (Viva rttavāda) and to treat the world as Illusory (Jagan Mithyā). On the other hand, being a śaiva Absolutist of the Āgama tradition, Ag. has his own justification to follow the Manifestation-theory (Abhāsavāda) and to view the world as manifestation of the Supreme. He cannot agree with the view that world is an Illusion. The Brahman, he says, manifests as the sec mingly inert as well as the Absolute Lord (īśvara). The thing to be overcome is the ignorance which prevents us from realising the Brahman in the world as well as beyond it.& Bearing all these factors in mind let us try to understand only a few points bric fly in the following sections. 
 2. This may be a reason why Ag. has chosen BG out of the 
 Prasthānatraya to comment on. Cf. Ag.'s observation aftaraf JFIA etc. under ch. XVIII, 63. 
 3. Pt. II, p. 138. Ingi Seeme.g. GS, intro verse 1; ch. III, 47-48; the catch-verse 

@@ -30,7 +30,7 @@ Ag speaks of the numerous commentaries of earlier authors available with him. Wh
 
 - 1. See below. 
 - 2. GS, intro verse 5. 
-- 3. Ch. XVIII, 2. Of course Bhaskara's commentary, as we have now, is an incomplete one breaking off at the penulti mate verse in chapter IX. However, Ag.'s present reference appears to remove the doubt whether Bhaskara had commented upon the entire text of the BG. Cf. Bhagavad gita Bhīsya by Bhaskarācārya : Ed. Subhadropadhyaya (Varanasi 1965) : Sanskrit intro page (). It is to be noted that the BG text commented upon by Bhāskara is largely Kashmirian text. 
+- 3. Ch. XVIII, 2. Of course Bhāskara's commentary, as we have now, is an incomplete one breaking off at the penulti mate verse in chapter IX. However, Ag.'s present reference appears to remove the doubt whether Bhāskara had commented upon the entire text of the BG. Cf. Bhagavad gita Bhīsya by Bhāskarācārya : Ed. Subhadropadhyaya (Varanasi 1965) : Sanskrit intro page (). It is to be noted that the BG text commented upon by Bhāskara is largely Kashmirian text. 
 - 4. See e.g. ch. IX, 33-35: Hereinafter the references to the BG chapters and verses include the Tippani and also the Notes on those verses in pt. II. 
 
 Basing on this fact, it can be safely inferred that Ag. knew also the bhāsya of Sankarācārya who is refuted quite often by Bhāskarācārya in his BG commentary. In the GS itself we have instances that seem to corroborate this surmise. Besides, there is the Sarvatobhadra, a commentary on the BG by another Kashmirian writer by name Rājānaka Rāmakaṇṭha. This author is assigned to a date earlier than that of Ag. If this is acceptable then it is not improbable that Ag. knew Rāmakaṇṭha's commentary also. Further Ag. refers to his preceptor's views on certain verses of the BG. All these seem to indicate that in the Kashmir valley of Ag.'s time there were heated discussions on the purport and philosophy of the BG. It is to be borne in mind that Śaṅkara's bhāsya roused sharp criticism first among these who followed the Kashmirian text of the BG, viz. Bhāskara.\* Its reaction from the South came later in the form of the Visiṣtādvaita commentary by Ramānujācārya (c. 1100 A. D). 
@@ -57,7 +57,7 @@ II
 ### Chief goal
 Like Anandavardhana, Ag. maintains : The chief purpose of Dvaipāyana (Vyāsa) in writing the MB is to show that the highest reward of human pursuit is emancipation.+++(5)+++ This subject of emancipation is dealt with in various sections of the MB; but it is in the BG that the matter is discussed most vividly by Vyāsa.1
 
-- 1. Ibid., verse 4. Following the widely accepted tradition, at least as old as the date of Śaṅkara, Ag. uses the plural form Gitāḥ. Further, more than once Ag. affirms that what is taught in the BG is the idea of the Sage (Muniḥ). See, eg. GS intro. and Ag's observation under ch. II, 19; IV, 25; VI, 17-18; VIII, 5-7, 12-14; etc. Cf. also the introductions of Śaṅkara and Ramakaṇṭha to their respective commentaries. Bhaskara's commentary itself bears the name Bhagavad-āśayānusaranam.
+- 1. Ibid., verse 4. Following the widely accepted tradition, at least as old as the date of Śaṅkara, Ag. uses the plural form Gitāḥ. Further, more than once Ag. affirms that what is taught in the BG is the idea of the Sage (Muniḥ). See, eg. GS intro. and Ag's observation under ch. II, 19; IV, 25; VI, 17-18; VIII, 5-7, 12-14; etc. Cf. also the introductions of Śaṅkara and Rāmakaṇṭha to their respective commentaries. Bhāskara's commentary itself bears the name Bhagavad-āśayānusaranam.
 
 Since liberation is the chief aim of the BG, it is defined in the very beginning : Liberation is nothing but getting oneself dissolved (i.e. realising oneself to be identical with) in the All-inclusive Samvid i.e. the Supreme Consciousness.2 
 
@@ -66,7 +66,7 @@ Since liberation is the chief aim of the BG, it is defined in the very beginning
 ### Means of liberation
 Ag. adds: To attain this end viz. liberation, the chief means is Jñāna (wisdom).+++(5)+++ The Karman (action), if performed by a person firmly fixed in wisdom cannot bind him because they have finality in wisdom. Thus wisdom is the main means and action is its inevitable important adjunct. On that account wisdom and action cannot be bracketed as equals for attaining emancipation. This is the spirit of the BG.3 
 
-- 3. GS, intro. Cf. the Jñāna-karma-samuccaya-vāda of the school represented by Bhaskara, Rāmakaṇṭha etc., on one hand and the Kevala-jñānān = mokṣavada of the school represented by Śaṅkara etc., on the other. Cf. also the Brahmasūtra सर्वापेक्षा च यज्ञादि-श्रुतेर् अश्ववत् (III, iv. 26) and Śaṅkara's bhasya thereon. See also the same teacher's long discussion at the end of the First Book of the Taittiriyopaniṣad and under BG, ch. XVIII, 66. See also below. 1. Ch. I, 1. 
+- 3. GS, intro. Cf. the Jñāna-karma-samuccaya-vāda of the school represented by Bhāskara, Rāmakaṇṭha etc., on one hand and the Kevala-jñānān = mokṣavada of the school represented by Śaṅkara etc., on the other. Cf. also the Brahmasūtra सर्वापेक्षा च यज्ञादि-श्रुतेर् अश्ववत् (III, iv. 26) and Śaṅkara's bhasya thereon. See also the same teacher's long discussion at the end of the First Book of the Taittiriyopaniṣad and under BG, ch. XVIII, 66. See also below. 1. Ch. I, 1. 
 
 ### The allegory
 Further Ag, refers to a view, most probably approvingly, that the Pāṇdava-Kaurava-war-story of the MB is to be interpreted allegorically : It is an extension of the Vedic Devāsura-war-episode,+++(5)+++ representing the perennial tug-of-war between the good and the bad instincts, between the godly and the demoniac natures and between the knowledge and the ignorance - a war that is being fought inwardly in every individual (Ch 1.1), who like Arjuna of the BG, remains undecided as to what to do and approaches a man of wisdom, like Śrī Kr̥ṣṇa, for guidance. 
@@ -80,7 +80,7 @@ It may be noted that Arjuna, the mightiest warrior of his age, enters the Kuruks
 
 Arjuna has the instruction in detail, is relieved of his doubts and confusion and at the end resolves to fight indeed. But he has not, Ag. points out, got wisdom or Self-realisation. Hence, the necessity for the future Anugītā.\* 
  
-- Ch.XVIII, 73. Perhaps this observation of Ag., a great figure in the field of Sanskrit literary criticism, goes against R.D. Karmarkar's remark on the alleged awkwardness o the Anugīta in the MB (See pt. II, p. 329). It is to be noted that Ramakaṇṭha knows the Anugita and he refers to it by name under ch.XIII, 13 etc. In his introduction to the bhāsya, Śaṅkara too refers to the Anugita by name and gives quotations from it. But according to both these authors (ch. XVIII, 73), the pupil Arjuna had Self-realisation, thanks to Śrī Kr̥ṣṇa's teaching.
+- Ch.XVIII, 73. Perhaps this observation of Ag., a great figure in the field of Sanskrit literary criticism, goes against R.D. Karmarkar's remark on the alleged awkwardness o the Anugīta in the MB (See pt. II, p. 329). It is to be noted that Rāmakaṇṭha knows the Anugita and he refers to it by name under ch.XIII, 13 etc. In his introduction to the bhāsya, Śaṅkara too refers to the Anugita by name and gives quotations from it. But according to both these authors (ch. XVIII, 73), the pupil Arjuna had Self-realisation, thanks to Śrī Kr̥ṣṇa's teaching.
 
 ### Commentary or Response?
 As we saw above a correct understanding of the nature of the Self is the basis for undertaking proper action, in connection of which an advice is sought after by Arjuna (1. Ch. II, 7. ). Hence, Śrī Kr̥ṣṇa is obliged to explain at length, the nature of the Self; the creation of the world and its connection with the Self; the question of bondage and liberation; the methodology to attain the latter; and other related items. In different contexts of the teachings of Srī Kr̥ṣṇa on these topics, the teachers of different schools of philosophies find some cardinal principles of their respective schools. Basing on that, they write commentaries upon the entire BG text in such a manner as to suit to their respective view-points. The GS may also be considered in a way a commentary of similar nature. But at the same time it is to be noted that the GS cannot be called a commentary of the usual nature. For, it is too short and too mystic and it leaves many verses of the BG unexplained.+++(4)+++ Word-by-word explanation we find very seldom here.  
@@ -201,13 +201,13 @@ What we have been above may constitute more or less the main stream of thought i
 
 Though very interesting, these topics are not examined here because many of these items have been studied in the Notes in pt. II, on the respective passages. 
 
-## 5
+## 5 Exposition
 ### Crypticism
 Now one may ask : How far has Ag. succeeded in bringing out these ideas of his in the GS ? It is not an easy question to answer. For, as we pointed out at the very outest, Ag. does not give us a word-by word commentary throughout. Many verses he has left untouched. In the GS, Ag. is inconveniently very brief in many places and very seldom he elaborates his points. Often he is very vague and at times quite consciously he writes in a cryptic manner. Yet, he feels sorry that he has disclosed too much of the ideas of the hidden tradition. He also tells us openly that the secret ideas he gives will be clean only to those who are initiated in the tradition of the śaiva School, and to others the top secret given in the GS would be like sky-pictures.+++(5)+++
 
 Yet, a very careful study of the GS, with the help of Ag.'s other works, like Tantrāloka, Paramārtha-sāra, Isvarapratyabhijñā-vimarsinī etc. would convince an impartial, but sympathetic reader, of this fact : Ag, has fairly succeeded in reading and bringing out these ideas of his śaiva School in the BG. Attempts have been made in a humble way both in the Tippani in pt. I and in the Notes in pt. II to elucidate this point. 
 
-## Comparison with śaṅkara
+### Comparison with śaṅkara
 After thus surveying briefly the contents of the GS, one may be naturally tempted to attempt a comparative study of Ag. and Sankarācārya on the basis of their respective commentaries on the BG. For, Śaṅkara's Gītābhāsya is the most well-known commentary of the pre-Ag. period. We have noted earlier that Ag. might have been well aware of Śankara's bhāsya.  
 
 - 6. See e.g. ch. III, 14-15; IV, 18, 24; VII, 24-27; XVII, 23-27. 
@@ -217,7 +217,7 @@ After thus surveying briefly the contents of the GS, one may be naturally tempte
 
 Moreover Ag, occupies as much an important place in the śaiva tradition as Śankara and Nāgārjuna do in the Vedāntic and Buddhistic traditions. We, however, refrain here from such an attempt. For, it will naturally lengthen the present study to an unmanageable extent. Further, to compare and contrast these giantlike sage-philosophers of immea surable intellect, insight and achievements and to pass judgement on that account are bound to be hard task. Moreover, a little attempt has already been made here and there in the Notes in pt.II in this direction of comparison. Again, scholars who have made systematic studies of Kashmir śaivism do recognise in general Śaṅkara's influence on the development of this śaiva philosophy of which Ag. is the greatest master. The same may be applicable to some extent to the philosophy of the GS too.
 
-### Similarities
+#### Similarities
 Above all it is good to bear in mind this: There is bound to be much in common among Śaṅkara and Ag. Because both believe in the total Advaita and advocate the same in their writings in their own respective ways. Both hold that the duality-view (Dvaitabuddhi) is only according to the ignorant person of the mundane life (Loka-dr̥ṣṭi) and the unity view (Advaita-buddhi) is of the intelligent person (Jñānin) with the scripture-eye (Śāstra-drṣti)...  
 
 - 1. L. N. Sharma: Kashmir śaivism (Varanasi, 1972), p. 70.5 
@@ -227,49 +227,56 @@ Collected works (Madras, 1961), pp. 223 ff, etc.
 
 XXXY 
 
-### Differences
+#### Differences
 At the same time there cannot but be difference between the two. For, Śaṅkara's philosophy is out and out based on the tradition of the venerable Śruti. And according to him, all other authorities, however great they might be, are to be rejected straight away, if they are found contradicting the Śruti. On the other hand Ag.'s philosophy has its foundation on the śaiva traditions of the Āgamas. According to the last mentioned authorities, the Vedic tradition is no doubt a good one; but it is inferior to the Vaiṣnava tradition, which is itself inferior to the śaiva tradition. Being a staunch Vedist Advaitin, Śaṅkara has "his own reason to adhere to the Illusion theory (Vivarttavāda) and to treat the world as Illusory (Jagan Mithyā). 
 
 On the other hand, being a śaiva Absolutist of the Āgama tradition, Ag. has his own justification to follow the Manifestation-theory (Abhāsavāda) and to view the world as manifestation of the Supreme. He cannot agree with the view that world is an Illusion. The Brahman, he says, manifests as the seemingly inert as well as the Absolute Lord (īśvara). The thing to be overcome is the ignorance which prevents us from realising the Brahman in the world as well as beyond it.& Bearing all these factors in mind let us try to understand only a few points briefly in the following sections. 
-2. This may be a reason why Ag. has chosen BG out of the 
-Prasthānatraya to comment on. Cf. Ag.'s observation aftaraf JFIA etc. under ch. XVIII, 63. 
-3. Pt. II, p. 138. Ingi Seeme.g. GS, intro verse 1; ch. III, 47-48; the catch-verse 
-in ch. XIII, 
-xxxvi श्रीमद्भगवद्गीता गीतार्थसंग्रहोपेता tuo bus tuo i gozo VI 
-39 The Vedānta tradition is ordinarily available only 
-for the Dvijas (i.e. the members of the Brāhmana, Ksatriya and Vaisya castes ---In fact, members of the first two castes only) and not for the Śūdras. No doubt by citing the examples of Vidura and Dharma vyādha of the MB, Śaṅkara accepts that the Śūdras are also eligible for the Vedānta - philosophy, but taught through the Epics and the Purānas etc.! And :We know that the BG forms part of the Epic." Yet writers like Bhāskara have gone to the extent of deny 
-ing the women in general, and the communities of the merchants and the Sūdras even the philosophy of the BG and its goal, viz. Moksa." om: beyond 
-theft . However, in Kashmir tradition we observe a change in this policy after the days of Bhaskara. For, Ramakaṇṭha tells us in many words that the teachings of the BG are meant for all those who are endowed with the qualities and virtues listed in the verses sai Araegla: etc. and he does not refer to any caste rest riction. This change might have been due to the 
-4. See Śaṅkara's observation while concluding his gloss on the 
-BS, I, iii, 38. Maybe this is another reason for Ag.'s selecting the BG 
-among the Prasthānatraya to comment on. 3. See Bhaskara's intro (Ed. op. cit., p. 14) and his gloss on 
-ch, IX, 33 34. 4. Ch. XVI, 1-3. See Ramakan ha's o'servation thereon. Sec 
-also his Sarvatobhadra, intro (Ed.op.cit., p. 12). 
-Introduction 
-xxxvii growing popularity of the śaivāgama tradition which is open to all irrespective of castes. 160 - og 
-Ag.is a staunch follower of this Śaiva tradi tion. He accepts that even the animals are eligible for emancipation and cites the example of Gajendra mokṣa of the Purāṇas. According to him the words strī, Vaisya and Sudra found in the verse ni fe quer etc. (ch.IX, 33) are not to be taken in the sense of female and the respective castes; rather they denote respec tively 'the ignorant', 'those who are engaged in diffe rent vocations, like agriculture etc. and those who do not have any claim for performing Vedic rituals'. Further, Ag. treats the compound word pāpayonayah (those who are of sinful birth) of the same verse as an independent Noun indicating animals, birds and reptiles. And he mocks at all the other commentators like Bhāskara' who treat that expression as an Adjec tive qualifying the Nouns, strī, Vaisya and Sūdra, which according to them signify female and the respective castes. Ag.refutes their views as being ridden of petty caste prejudices 
-Cf. apur: efaur āUT. TIADATFUSTaT fù i 
-सर्वे ते समधर्माण: शिवधर्मे नियोजिताः ॥ 
--Svacchandatantra (KSS), II, p 239. 2. See Ag.'s observation : TEETH elf etc. in GS, ch. IX, 
-33-35. Cf. also a faggiatrefa pia STEUETI fain IPV, II, p. 276. do la 
-oid 3. It is to be noted that Bhāskara is not alone in this respect. 
-Śaṅkara, Ramakaṇṭha etc., also do the same. 4. See #faniaaa etc. in the GS, ch. IX, 33-35. fua - who at 
-stands for 9 
-. 
-Xxxviii 
-Thus the BG, its philosophy, its wisdom and its goal, emancipation are thrown open to one and all, Consequently the BG has become a universal classic in the tradition of Kashmir.
 
-The above change of attitude does not mean that the Kashmirian scholars had revolutionised the social structure and had totally done away with castes, For, under the famous verse faifa zita etc. (ch. V. 18), Ag, clearly says that the wise look equally upon a Brāhmaṇa, a cow, an elephant, a dog and a dog-cooker (i.e., a Canḍāla, Harijan). But he quickly adds that this does not mean that the wise act equally with them all, i, e. make use of them in identical way. He goes further to point out that the same distinction between viewing them equally and acting equally with them is applicable even in the purely Tāntric tradition of the Vijñānabhairava. Indeed one cannot act equally with (i.e. use indenti cally) a cow, an elephant and a dog even though one may look upon them equally as living beings with Samvid glowing in.' 
-Thus in the Kashmir tradition the caste system seems to have continued in the social level eventhough it had lost its ground in the spiritual plane. The Kashmir revolution seems to have been only to this extent. Rāmakaṇṭha makes the point clear under the said verse of the BG. He says: The wise would observe the Supreme Brahman that is equal in a Brāhmaṇa, a Gandāla, a cow, an elephant and a dog. 
-6. Ag. believes that the caste-distinction is based on the in 
-herent nature of the respective castes. See the intro and gloss of ch, XVIII 41-60. 
-V Introduction 
-xxxix This does not mean that the wise would make use of them equally and do away the social structure crea ted by the Supreme Lord. 
+- 1. This may be a reason why Ag. has chosen BG out of the Prasthānatraya to comment on. Cf. Ag.'s observation वेदान्ताद् अपि गुह्यम् etc. under ch. XVIII, 63. 
+- 2. Pt. II, p. 138. 
+-3. Seeme.g. GS, intro verse 1; ch. III, 47-48; the catch-verse in ch. XIII, 
+
+[[xxxvi]] 
+
+## 6 jāti-attitude
+The Vedānta tradition is ordinarily available only for the Dvijas (i.e. the members of the Brāhmana, Ksatriya and Vaisya castes ---In fact, members of the first two castes only) and not for the Śūdras. No doubt by citing the examples of Vidura and Dharma-vyādha of the MB, Śaṅkara accepts that the Śūdras are also eligible for the Vedānta - philosophy, but taught through the Epics and the Purānas etc.. And :We know that the BG forms part of the Epic." Yet writers like Bhāskara have gone to the extent of denying the women in general, and the communities of the merchants and the Sūdras even the philosophy of the BG and its goal, viz. Mokṣa." 
+
+However, in Kashmir tradition we observe a change in this policy after the days of Bhāskara. For, Rāmakaṇṭha tells us in many words that the teachings of the BG are meant for all those who are endowed with the qualities and virtues listed in the verses abhayaṁ sattva-saṁśuddhiḥ etc. and he does not refer to any caste restriction. 
+
+- 1. See Śaṅkara's observation while concluding his gloss on the BS, I, iii, 38. 
+- 2. Maybe this is another reason for Ag.'s selecting the BG among the Prasthānatraya to comment on. 
+- 3. See Bhāskara's intro (Ed. op. cit., p. 14) and his gloss on ch, IX, 33 34. 4. Ch. XVI, 1-3. 
+- 4. See Rāmakaṇṭha's o'servation thereon. Sec also his Sarvatobhadra, intro (Ed.op.cit., p. 12). 
+
+[[xxxvii]] 
+
+This change might have been due to the growing popularity of the śaivāgama tradition which is open to all irrespective of castes.1
+
+Ag.is a staunch follower of this Śaiva tradition. He accepts that even the animals are eligible for emancipation and cites the example of Gajendra mokṣa of the Purāṇas.2 According to him the words strī, Vaisya and Sudra found in the verse māṁ hi pārtha etc. (ch.IX, 33) are not to be taken in the sense of female and the respective castes; rather they denote respectively 'the ignorant', 'those who are engaged in different vocations, like agriculture etc. and those who do not have any claim for performing Vedic rituals. Further, Ag. treats the compound word pāpa-yonayaḥ (those who are of sinful birth) of the same verse as an independent Noun indicating animals, birds and reptiles. And he mocks at all the other commentators like Bhāskara3 who treat that expression as an Adjective qualifying the Nouns, strī, Vaiśya and Śūdra, which according to them signify female and the respective castes. Ag. refutes their views as being ridden of petty caste prejudices.4
+
+- 1. Cf. brāhmaṇāḥ kkṣatriyā vaiśyāḥ śūdrāś cānyē ’thavā priyē. सर्वे ते समधर्माणः शिवधर्मे नियोजिताः ॥ - Svacchandatantra (KSS), II, p 239. 
+- 2. See Ag.'s observation : gajendramōkṣaṇādīni etc. in GS, ch. IX, 33-35. Cf. also yasya kasyacij jantōr iti nātra jāty-apēkṣā kācit IPV, II, p. 276. do la 
+- 3. It is to be noted that Bhāskara is not alone in this respect. Śaṅkara, Rāmakaṇṭha etc., also do the same. 
+- 4. See kēcid ācakṣatē etc. in the GS, ch. IX, 33-35.
+      
+[[Xxxviii]] 
+
+Thus the BG, its philosophy, its wisdom and its goal, emancipation are thrown open to one and all. Consequently the BG has become a universal classic in the tradition of Kashmir.
+
+The above change of attitude does not mean that the Kashmirian scholars had revolutionised the social structure and had totally done away with castes, For, under the famous verse vidyā-vinaya-sampannē etc. (ch. V. 18), Ag, clearly says that the wise look equally upon a Brāhmaṇa, a cow, an elephant, a dog and a dog-cooker (i.e., a Canḍāla, Harijan). But he quickly adds that this does not mean that the wise act equally with them all, i.e. make use of them in identical way. He goes further to point out that the same distinction between viewing them equally and acting equally with them is applicable even in the purely Tāntric tradition of the Vijñānabhairava. Indeed one cannot act equally with (i.e. use indentically) a cow, an elephant and a dog even though one may look upon them equally as living beings with Samvid glowing in. (Ag. believes that the caste-distinction is based on the inherent nature of the respective castes. See the intro and gloss of ch, XVIII 41-60.)
+
+Thus in the Kashmir tradition the caste system seems to have continued in the social level eventhough it had lost its ground in the spiritual plane. The Kashmir revolution seems to have been only to this extent. Rāmakaṇṭha makes the point clear under the said verse of the BG. He says: 
+
+> The wise would observe the Supreme Brahman that is equal in a Brāhmaṇa, a Gandāla, a cow, an elephant and a dog. [[xxxix]] This does not mean that the wise would make use of them equally and do away the social structure created by the Supreme Lord.1 
+
+- 1. See Rāmakaṇṭha under ch.V,18. For Sivopādhyāya's similar idea see pt. II, p. 116. Ag. too accepts that the Four caste system is the creation of the Supreme. See ch. IV, 11-13; XVIII, 41-46 ff.
+
 ## 7
 This change of attitude towards the caste system in the spiritual plane perhaps explains the deference between the BG commentators in general on one hand and Ag. of the Kashmir śaiva School on the other regarding the interpretation of the term yajñā occurring often in the BG. The word occurs for the first time in aca : (ch. III, 9). Most of the commentators seem to feel it difficult to take the word in its well-known common parlance i.e. Vedic sacrifice. To Sarkara this word signifies Viṣnu. To Bhāskara too it does the same. But to Rāmakaṇṭha it conveys the meaning "Worship of the Supreme'. But none of them appears to maintain the same res pective stands of theirs uniformly in all the instances where the word occurs (mostly in ch. III and IV). in BG. 
 CUIS 
 On the other hand, Ag. takes, as we saw earlier, Yajñā in the sense of an act to be necessarily per formed'.' To Ag. the word does not mean in the BG 
-1. See Rāmakaṇṭha under ch.V,18. For Sivopādhyāya's similar idea see pt. II, p. 116. Ag. too accepts that the Four caste system is the creation of the Supreme. See ch. IV, 11-13; XVIII, 41-46 ff. 2. I.e. an act not influenced by one's likes and dislikes. See above. How can rajñā signify 'an act with no attachment'? The GS does not help us in answering this pertinent question. But 
+
+- 2. I.e. an act not influenced by one's likes and dislikes. See above. How can rajñā signify 'an act with no attachment'? The GS does not help us in answering this pertinent question. But 
 (Contd. in p. xl)श्रीमद्भगवद्गीता गीतार्थसंग्रहोपेता 
 ‘the Vedic sacrifice' that can be performed only by a few selected dvijas; but it denotes always the sublime act, that is not generated by likes and dis likes, and that can be performed by all, irrespective of castes. Hence he seems to feel comfortable to maintain a uniformity. 
 50519. has 
@@ -287,7 +294,7 @@ I. e. 'ignorance'. Almost all the other commentators of Sarkara's school seem to
 (Contd. in p. xlii) Gita-6 
 xlii 
 श्रीमद्भगवद्गीता गीतार्थसंग्रहोपेता 
-Rāmakaṇṭha too takes practically the same stand. Bhaskara interprets 3rfa fagaw in the sense 'not accor ding to the injunctions (i.e. proper injunctions) made for the path of liberation. However, Ag, first takes the word in the sense of 'varied injunctions.'s He affirms that the Lord worshipped by any and every method does cause the aspirant to come out of the Samsāra." His confirmed view is: No name or deity is to be insisted upon Holding fast to any form and name of a deity with no desire for result surely yields emancipation to the aspirant. With all vehemence he criticises those commentators who interpret avidhi in the sense 'wrong or defective injunctions and he describes them as acquiring sin by insulting other 
+Rāmakaṇṭha too takes practically the same stand. Bhāskara interprets 3rfa fagaw in the sense 'not accor ding to the injunctions (i.e. proper injunctions) made for the path of liberation. However, Ag, first takes the word in the sense of 'varied injunctions.'s He affirms that the Lord worshipped by any and every method does cause the aspirant to come out of the Samsāra." His confirmed view is: No name or deity is to be insisted upon Holding fast to any form and name of a deity with no desire for result surely yields emancipation to the aspirant. With all vehemence he criticises those commentators who interpret avidhi in the sense 'wrong or defective injunctions and he describes them as acquiring sin by insulting other 
 (F. 1. 1. Contd. from p. xli) अगानित्वादिकम् । [डु धा धारणपोषणयोरिति धातोर्जुहोत्यादे: 'उपसर्ग घो: 29 (PA, III, iii, 92) igra 599a a uta zeife कारके च किप्रत्ययविधानात् । ] Rāmakaạtha too perhaps has more or less similar word mean ing in his mind while interpreting the expression (See next note). Probably Sankarācārya intends this also: By perform ing sacrifices for different gods, people in fact worship the Supreme only; but they are ignorant of this fact because of their pride, hypocricy (mānitva-dambhitvādi) etc. 1. Cf. fafa: ---- FarCAFET 39farlaraq ETH: ---- ara: fafe: etc. 2. Cf. arfafaqaai afetarifafatigafacaet: 1 3. I e. those injunctions that are found in other religions and 
 other philosophies. For details of this as well as the second interpretation of the word by Ag., see the Tippaṇi and Anubandha (pt.I) and the Notes (pt II) on this verse. 
 Ch. XIII, 24-25. 5 Ch. VII, 24. 

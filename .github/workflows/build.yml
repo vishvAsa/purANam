@@ -44,13 +44,10 @@ jobs:
       uses: actions/checkout@master
       with:
         ref: master
-        submodules: false
-        # Setting true above seems to lead to submodule updation problems.
-        fetch-depth: 1
+        submodules: recursive
     - name: Update submodules
       run: |
         set -o xtrace
-        git submodule update --init --recursive
         git submodule update --remote --merge --recursive
     - name: Set content to pull request
       if: ${{ github.event_name == 'pull_request'}}

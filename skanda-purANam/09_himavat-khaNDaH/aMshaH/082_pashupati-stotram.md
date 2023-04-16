@@ -1,6 +1,14 @@
 +++
-title = "पशुपति-स्तोत्रम्"
+title = "०८२ पशुपति-स्तोत्रम्"
 +++
+
+<details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
+
+The Paśupati-stotra in question is from the 82nd adhyaya, 44th to 54th ślokas.
+
+
+</details>
+
 
 
 

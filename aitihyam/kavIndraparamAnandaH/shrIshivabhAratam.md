@@ -10,7 +10,7 @@ LANGUAGE = "संस्कृतम्"
 EDITOR = "पुरुषोत्तमशास्त्री-रानडे वासुदेवशास्त्री-मराठे"
 PRINTER = "आनन्दाश्रम-मुद्रणालयः"
 "SERIAL NO." = "Ebharati-8548"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc1MDI4&pageno=MjI0MjQyNjk5NTk="
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=NjUyMzIyMDg4NTc1MDI4&pageno=MjI0MjQyNjk5NTk="
 title = "श्रीशिवभारतम्"
 
 +++

@@ -9,7 +9,7 @@ PAGES = "48"
 LANGUAGE = "संस्कृतम्"
 PRINTER = "श्रीगोपालविलासमुद्राक्षरशाला कुम्भघोणम्"
 "SERIAL NO." = "Ebharati-301"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwOTY5ODY4NDk4ODI=&pageno=MjI0MjQyNjk5NTk="
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjIwOTY5ODY4NDk4ODI=&pageno=MjI0MjQyNjk5NTk="
 title = "अष्टावक्रीयम्"
 
 +++

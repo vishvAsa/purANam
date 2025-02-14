@@ -1,5 +1,5 @@
 +++
-title = "+मधुराविजयम्"
+title = "+गङ्गादेवी मधुराविजयम्"
 unicode_script = "devanagari"
 
 +++

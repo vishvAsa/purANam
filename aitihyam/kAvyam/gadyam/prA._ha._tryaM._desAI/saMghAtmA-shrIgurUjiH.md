@@ -8,7 +8,7 @@ PAGES = "181"
 LANGUAGE = "संस्कृतम्"
 PRINTER = "श्रीशारदा-मुद्रण-सिद्धि-मन्दिरम्"
 "SERIAL NO." = "Ebharati-7626"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMDE3NDQzNzYwMjM3&pageno=MjI0MjQyNjk5NTk="
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjcxMDE3NDQzNzYwMjM3&pageno=MjI0MjQyNjk5NTk="
 title = "संघात्मा-श्रीगुरूजिः"
 
 +++

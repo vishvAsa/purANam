@@ -10,7 +10,7 @@ LANGUAGE = "संस्कृतम्"
 "PRIMARY COMMENTATOR" = "श्रीधरशास्त्री"
 PRINTER = "बरोडा-मुद्रणालयः"
 "SERIAL NO." = "Ebharati-6206"
-url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM5MDc0MDg2MjU3NTk1&pageno=MjI0MjQyNjk5NTk="
+source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjM5MDc0MDg2MjU3NTk1&pageno=MjI0MjQyNjk5NTk="
 title = "प्रतापविजयम्"
 
 +++

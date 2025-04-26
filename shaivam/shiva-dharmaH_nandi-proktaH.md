@@ -1,4 +1,5 @@
 +++
+title = "शिवधर्म नन्दिप्रोक्त"
 "Catalog number" = "M00210"
 "Uniform title" = "śivadharma nandiprokta"
 Subjects = [ "śaiva",]
@@ -8,12 +9,12 @@ Description = "E-text copied from pages 1o-24 of IFP/EFEO transcript 72 which it
 "Publication year" = [ "2010",]
 "Publication country" = "United States"
 title_iast = "śivadharma nandiprokta"
-title = "शिवधर्म नन्दिप्रोक्त"
 
 +++
   
   
-  
+
+## २ 
   
   
 प्। १  
@@ -276,7 +277,8 @@ title = "शिवधर्म नन्दिप्रोक्त"
   
   
 प्। १०)  
-  
+
+## ३ 
 श्रीः  
   
 अथ तृतीयोध्यायः  
@@ -441,7 +443,8 @@ title = "शिवधर्म नन्दिप्रोक्त"
   
   
   
-  
+
+## ४ 
 प्। १५)  
   
 श्रीः  
@@ -577,7 +580,8 @@ title = "शिवधर्म नन्दिप्रोक्त"
   
   
   
-  
+
+## ५ 
 प्। २०)  
   
 श्रीः  

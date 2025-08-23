@@ -6,7 +6,8 @@ The Madhurāvijayam or Vīra Kamparāya caritam by Gangā Dēvi was discovered b
 
 The following analysis will show the number of verses available for scholars in all the nine cantos of the work.
 
-{{< figure src="../../images/missing-verses.png" title="" class="thumbnail">}}
+![](../../images/missing-verses.png)
+{caption="" class="thumbnail"}
 
 
 The manuscript discovered in the condition described above was first brought to light in 1916 by Pandits G. Harihara Sastri and V. Srinivasa Sastri of Trivan drum. The manuscript itself was in the possession of Pandit N. Ramaswami Sastri and the credit of preserving and publishing the available portion of the manuscript must go to these three scholars. The Trivandrum Edition of the work of which the first two Pandits are the editors is the only available edition of the work and contains only the text of the work.

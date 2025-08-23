@@ -282,7 +282,8 @@ title = "०१ उमोत्पत्तिः"
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
-{{< figure src="../../images/bioluminescent-fungii.jpg" title="" class="thumbnail">}}
+![](../../images/bioluminescent-fungii.jpg)
+{caption="" class="thumbnail"}
 
 वने-चराणां वनिता-सखानां  
 दरी-गृहोत्सङ्ग+++(=अभ्यन्तर)+++-निषक्त-भासः।  
@@ -959,7 +960,8 @@ title = "०१ उमोत्पत्तिः"
 नागेन्द्रेति । नागेन्द्राणामैरावतादीनां हस्ताः करास्त्वचि चर्मणि कर्कशत्वात्कदलीविशेषा रामरम्भादय एकान्तशएत्यान्नियतशैत्याद्धेतोः लोके परिणाहि वैपुल्ययुक्तम् । 'परिणाहो विशालता' इत्यमरः । रूपं लब्ध्वापि । अपिशब्दात्करिकदलीमात्रस्य तादृक्परिणाहो नास्तीति भावः । तस्या ऊर्वोस्तदूर्वोरुपमानबाह्या जाता उपमानक्रियानर्हा बभृवुः । तदूर्वोन कार्कश्यं नाप्येकान्तशैत्यमिति भावः ॥ 1. 36 ॥
 </details>
 
-{{< figure src="../../images/kAnchI-guNam_sAnubandham.jpg" title="" class="thumbnail">}}
+![](../../images/kAnchI-guNam_sAnubandham.jpg)
+{caption="" class="thumbnail"}
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 
@@ -1068,7 +1070,8 @@ title = "०१ उमोत्पत्तिः"
 </details>
 
 
-{{< figure src="../../images/shirISha.jpg" title="" class="thumbnail">}}
+![](../../images/shirISha.jpg)
+{caption="" class="thumbnail"}
 
 <details open><summary>विश्वास-प्रस्तुतिः</summary>
 

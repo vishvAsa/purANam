@@ -4,7 +4,8 @@ title = "Consogonic Theogony"
 
 Source: [TW](https://rattibha.com/thread/1577885390593310721?lang=hi)
 
-{{< figure src="../../images/cosmogonic-theogony_MT.jpg" title="" class="thumbnail">}}
+![](../../images/cosmogonic-theogony_MT.jpg)
+{caption="" class="thumbnail"}
 
 
 A cosmogonic-theogony of the pA~ncharAtrika type interpreted from the sarga section of the brahma-purANa. While the account in the said text might be taken as a confused or corrupt account a theistic sAMkhyA, we believe that it has a genuine foundation. 

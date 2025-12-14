@@ -1,5 +1,5 @@
 +++
-title = "mAnikka vAcakar"
+title = "मूलम्"
 
 +++
 tiruvAcakam of mAnikka vAcakar

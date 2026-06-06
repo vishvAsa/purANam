@@ -4,7 +4,7 @@ title = "गङ्गावतरणम्"
 
 <details><summary>विस्तारः (द्रष्टुं नोद्यम्)</summary>
 
-Śrīmad Appayya Dīkṣitendra describes the glories of Mother Gaṅgā in three verses in His Brahmatarka Stava and in one verse in His Rāmyaṇa-tātparya-sāra-saṃgraha Stotra in connection with Lord Śiva. Each word he has used in the two Stotras embodies a larger body of passages of the Itihāsa-purāṇas and illustrates the same in the commentaries on the two works by profusely quoting from the ancient scriptures. In the commentary on verses 35, 36, and 37 of BTS, He marshals arguments against those who glorify Lord Viṣṇu and mock at Lord Śiva in connection with Gaṅgā. In this way He undergirds the path of Śivabhakti without uttering a word against Lord Viṣṇu or His devotees in the Stotra or its commentary. 
+Śrīmad Appayya Dīkṣitendra describes the glories of Mother Gaṅgā in three verses in His Brahmatarka Stava and in one verse in His Rāmyaṇa-tātparya-sāra-saṃgraha Stotra in connection with Lord Śiva. Each word he has used in the two Stotras embodies a larger body of passages of the Itihāsa-purāṇas and illustrates the same in the commentaries on the two works by profusely quoting from the ancient scriptures. In the commentary on verses 35, 36, and 37 of BTS, He marshals arguments against those who glorify Lord Viṣṇu and mock at Lord Śiva in connection with Gaṅgā. In this way He undergirds the path of Śivabhakti without uttering a word against Lord Viṣṇu or His devotees in the Stotra or its commentary.
 </details>
 
 
@@ -44,7 +44,7 @@ In His commentary on this śloka, Dīkṣitendra explains that there are two dif
 
 The other stream of Gaṅgā originated from the foot of Lord Trivikrama as He pierced the wall of the Universe and causing a small amount of it to inundate the higher planetary systems. The former is known as Tripathagā Gaṅgā because she flows in three streams (planets) viz Brahmaloka, Bhūloka, and Pātālaloka. The latter is known as Viṣṇupadī Gaṅgā because she flows from the foot of Lord Viṣṇu.
 
-The commentary on this śloka is a must read for all āstikas, for Dīkṣitendra has quoted profusely from the Vāmana Purāṇam, Vālmīki Rāmyaṇam, Sabhā-parvan of Mahābhārata, Kūrma Purāṇam, Viṣṇu Purāṇam, Mārkaṇḍeya Purāṇam, and Kedāra-khaṇḍa of Skānda Purāṇam to show evidence for the Supremacy of Lord Śiva as well. 
+The commentary on this śloka is a must read for all āstikas, for Dīkṣitendra has quoted profusely from the Vāmana Purāṇam, Vālmīki Rāmyaṇam, Sabhā-parvan of Mahābhārata, Kūrma Purāṇam, Viṣṇu Purāṇam, Mārkaṇḍeya Purāṇam, and Kedāra-khaṇḍa of Skānda Purāṇam to show evidence for the Supremacy of Lord Śiva as well.
 
 VERSE 37 of BRAHMATARKA STAVA
 

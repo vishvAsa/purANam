@@ -3372,10 +3372,16 @@ source_url = "https://www.ebharatisampat.in/readbook3.php?bookid=MjE5NjY4OTkwNjk
 
 इदमेव च तत्त्वमुपलभ्यालापि नीलपटेन—
 
-**पयोधरभरालसाः स्मरविघूर्णितार्धेक्षणाः  
-क्वचित्सलयपञ्चमोच्चरितगीतडङ्कारिणः।  
-विहाय रमणीरमूरपरमोक्षसौख्यार्थिना-  
-महो जडिमडिण्डिमो विफलभण्डिपाखण्डिनाम्॥**
+**पयो-धर-भरालसाः स्मर-विघूर्णितार्धेक्षणाः  
+क्वचित्-सलय-पञ्चमोच्चरित-गीत-डङ्कारिणः।  
+विहाय रमणीर् अमूर् अपर-मोक्ष-सौख्यार्थिनाम्  
+अहो जडिम-डिण्डिमो विफल-भण्डि-पाखण्डिनाम्॥**
+
+<details><summary>English</summary>
+
+‘And Nīlapaṭa, too, having comprehended the same truth, said: “How loudly those hectic buffoon loosers trumpet abroad their own stupidity who, seeking for the bliss of another kind of deliverance, abandon these lovely women, languid with the weight of their breasts, their half-closed eyes rolling in love, and sometimes humming a rhythmic tune which ascends to the fifth note.”’
+</details>
+
 
 **स्त्रीमुद्रां झषकेतनस्य महतींसर्वार्थसंपत्कर्री  
 ये मोहादवधीरयन्ति कुधियो मिथ्याफलान्वेषिणः।  

@@ -1,0 +1,44 @@
+{
+  "M00209": {
+    "Catalog number": "M00209",
+    "Uniform title": "Śivadharma",
+    "Manuscript": "IFP/EFEO 860 copied from R2442 G.O.N.L., Madras",
+    "Description": "IFP transcript 860 copied from ms no R2442 belonging to G.O.N.L., madras.)\nThis zivadharma differs from the text of the same name in transcript no. 72. There the colophon reads: śrīśivadharmaśāstre nandiproktethe colophon of this version reads simply śrīśivadharmaśāstre",
+    "Notes": "Data entered by the staff of Muktabodha under the supervision of Mark S.G. Dyczkowski.\n\nRevision 0: April 5, 2010",
+    "Internet publisher": "Web publisher Muktabodha",
+    "Publication year": "2010",
+    "Publication country": "United States",
+    "file_size": 165.1,
+    "Traditions": [
+      "Śivadharma"
+    ]
+  },
+  "M00210": {
+    "Catalog number": "M00210",
+    "Uniform title": "Śivadharma Nandiprokta",
+    "Manuscript": "IFP/EFEO 72 pages 1 - 24 copied from Adyar Library Madras. ms. no.: 75429",
+    "Description": "E-text copied from pages 1o-24 of IFP/EFEO transcript 72 which itself was a copy of Adyar Library Madras Ms. 75429",
+    "Notes": "Data entered by the staff of Muktabodha under the supervision of Mark S.G. Dyczkowski.\n\nRevision 0: April 5, 2010",
+    "Internet publisher": "Web publisher Muktabodha",
+    "Publication year": "2010",
+    "Publication country": "United States",
+    "file_size": 27.4,
+    "Traditions": [
+      "Śivadharma"
+    ]
+  },
+  "M00211": {
+    "Catalog number": "M00211",
+    "Uniform title": "Śivadharmaśāstra",
+    "Manuscript": "IFP/EFEO 72 from page 25 copied from Adyar Library Madras. ms. no.: 75425",
+    "Description": "IFP transcript no. 72 from page 25 itself a copy of Adyar Library, Madras ms. no.: 75425",
+    "Notes": "Data entered by the staff of Muktabodha under the supervision of Mark S.G. Dyczkowski.\n\nRevision 0: April 5, 2010",
+    "Internet publisher": "Web publisher Muktabodha",
+    "Publication year": "2010",
+    "Publication country": "United States",
+    "file_size": 178.9,
+    "Traditions": [
+      "Śivadharma"
+    ]
+  }
+}
